@@ -7,6 +7,8 @@ int main(int argc, char *argv[]){
 
 	printf("testing git\n");
 
-	printf("this is in master\n");
+	printf("smoke lotsa weed");
+
+
 	return(0);
 }
