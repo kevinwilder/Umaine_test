@@ -9,6 +9,7 @@ int main(int argc, char *argv[]){
 
 	printf("smoke lotsa weed");
 
+	printf("& milk\n");
 
 	return(0);
 }
