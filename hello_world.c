@@ -7,6 +7,6 @@ int main(int argc, char *argv[]){
 
 	printf("testing git\n");
 
-	printf("this is in a branch\n");
+	printf("this is in master\n");
 	return(0);
 }
